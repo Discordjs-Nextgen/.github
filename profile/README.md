@@ -16,5 +16,6 @@ Bot geliştirme sürecini daha tip güvenli, hızlı ve ölçeklenebilir hale ge
 | **`discordjs-nextgen-db`** | Botun verilerini yönetmek için optimize edilmiş veritabanı katmanı. |
 | **`discordjs-nextgen-cache`** | Yüksek performanslı bellek içi (in-memory) veri yönetimi. |
 | **`discordjs-nextgen-voice`** | Sesli kanal işlemleri ve ses akışı için özelleştirilmiş modül. |
+| **`permsy`** | Bot için çerçeveden bağımsız izin ve komut yönetim motoru. |
 
 ---
